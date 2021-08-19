@@ -1,0 +1,13 @@
+{
+  "name": "@common/gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "private": true,
+  "dependencies": {
+    "@common/models": "0.0.1"
+  },
+  "scripts": {
+    "test": "../../node_modules/.bin/jest --colors"
+  }
+}
